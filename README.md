@@ -30,11 +30,11 @@
 ---
 
 ##  Структура проєкту
-├── main.cpp # Головний файл
-├── Component.hpp/.cpp # Класи Resistor, Capacitor, Inductor
-├── Logger.hpp/.cpp # Клас логування
-├── Encryptor.hpp/.cpp # Клас для шифрування
-├── log.txt # Лог подій
-├── data.enc # Зашифрований звіт
-├── CMakeLists.txt # Файл для збірки
-├── README.md # Цей файл
+ main.cpp # Головний файл
+ Component.hpp/.cpp # Класи Resistor, Capacitor, Inductor
+ Logger.hpp/.cpp # Клас логування
+ Encryptor.hpp/.cpp # Клас для шифрування
+ log.txt # Лог подій
+ data.enc # Зашифрований звіт
+ CMakeLists.txt # Файл для збірки
+ README.md # Цей файл
